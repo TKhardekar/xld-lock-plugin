@@ -6,7 +6,7 @@ notifications:
 deploy:
   provider: releases
   api_key:
-    secure: bX57hDvRMID51sXxGHpi/FTKcL7nnJWs0Szm8FkP77mcG5etEriB4/r6SIMfCu+gTaJ5I8BKQJ+iORajG4hFH2J4xbXI9qOb6KlfSiHHdLAhfJFFxw6KNfXUiELAznE9DL6hqBI+BDMmeBH7ngqkfMQT/h9ygw5FMn8UL7MfGVc=
+    secure: J6HD1ML2EcjDkhdjmJZCjlTMl69qW4k8eVd87yLXJ09puelCMm8HNMBHR3PIboJiu7dzRkrurRaZVORhi9LmcPn/IvwLnSfT69MLGqr4xXFixS7vDF72HDQ69yaLgPKqK3vZj3FHZR/bQTSD5hatYhM51265d6VRxvZwV8sCxKk=
   file: build/libs/xld-lock-plugin-5.1.0.jar
   skip_cleanup: true
   on:
